@@ -2,4 +2,4 @@
 
 ## Anton Ziuzikov
 
-https://www.codecademy.com/users/Zamtakaish/achievements
+HTML CSS Basics: https://www.codecademy.com/users/Zamtakaish/achievements
